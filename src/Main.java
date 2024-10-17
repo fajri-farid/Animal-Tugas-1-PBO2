@@ -7,9 +7,9 @@ public class Main {
         myCat.play();
         myCat.eat();
         String oldNameCat = myCat.getName();
-        System.out.println("Changing cat's name");
+        System.out.println("Changing myCat's name");
         myCat.setName("Fajri");
-        System.out.println("The cat's name changed from " + oldNameCat + " to " + myCat.getName());
+        System.out.println("myCat's name changed from " + oldNameCat + " to " + myCat.getName());
         myCat.eat();
         myCat.play();
         myCat.walk();
@@ -26,10 +26,10 @@ public class Main {
         System.out.println("Fish class:");
         Fish myFish = new Fish();
         System.out.println("myFish name: " + myFish.getName());
-        System.out.println("Changing cat's name");
+        System.out.println("Changing myFish's name");
         String oldNameFish = myFish.getName();
         myFish.setName("Lala");
-        System.out.println("The fish's name changed from " + oldNameFish + " to " + myFish.getName());
+        System.out.println("myFish's name changed from " + oldNameFish + " to " + myFish.getName());
         myFish.eat();
         myFish.play();
         myFish.walk();
