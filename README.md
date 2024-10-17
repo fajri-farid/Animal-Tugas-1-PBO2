@@ -5,4 +5,4 @@ Tugasnya adalah membuat code Java dari UML ini dengan menerapkan konsep inherita
 
 Output:
 
-<img src="https://github.com/user-attachments/assets/aa607ed3-cbb2-4d11-ab8a-f0531a7ec652" alt="Your image description" width="600" />
+<img src="https://github.com/user-attachments/assets/703c5501-2872-4f89-a3bf-328a61a115d9" alt="Your image description" width="600" />
