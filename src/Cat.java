@@ -34,6 +34,4 @@ public class Cat extends Animal implements Pet{
     public void eat() {
         System.out.println(name + " is eating");
     }
-
-    // untuk eat dia ngikut parentnya!
 }
