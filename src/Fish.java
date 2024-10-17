@@ -3,7 +3,7 @@ public class Fish extends Animal implements Pet {
 
     public Fish() {
         super(0);
-        this.name = "Nemo";
+        this.name = "Fish";
     }
 
     @Override

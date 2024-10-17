@@ -7,7 +7,7 @@ public class Cat extends Animal implements Pet{
     }
 
     public Cat() {
-        this("Kitty");
+        this("Cat");
     }
 
     @Override

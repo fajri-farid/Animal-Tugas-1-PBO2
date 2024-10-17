@@ -8,7 +8,7 @@ public class Main {
         myCat.eat();
         String oldNameCat = myCat.getName();
         System.out.println("Changing myCat's name");
-        myCat.setName("Fajri");
+        myCat.setName("Kitty");
         System.out.println("myCat's name changed from " + oldNameCat + " to " + myCat.getName());
         myCat.eat();
         myCat.play();
@@ -28,7 +28,7 @@ public class Main {
         System.out.println("myFish name: " + myFish.getName());
         System.out.println("Changing myFish's name");
         String oldNameFish = myFish.getName();
-        myFish.setName("Lala");
+        myFish.setName("Nemo");
         System.out.println("myFish's name changed from " + oldNameFish + " to " + myFish.getName());
         myFish.eat();
         myFish.play();
