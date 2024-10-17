@@ -6,10 +6,10 @@ public class Animal {
     }
 
     public void walk() {
-        System.out.println("Animal is Walking");
+        System.out.println("Walking... duk... duk... duk...");
     }
 
     public void eat() {
-        System.out.println("Eating... nyum.. nyum...");
+        System.out.println("Eating... nyum... nyum...");
     }
 }
