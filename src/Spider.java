@@ -3,5 +3,13 @@ public class Spider extends Animal {
         super(8);
     }
 
-    // untuk eat dia ngikut parentnya!
+    @Override
+    public void walk() {
+        System.out.println("Spider is walking on " + legs + " legs");
+    }
+
+    @Override
+    public void eat() {
+        System.out.println("Spider is eating");
+    }
 }
